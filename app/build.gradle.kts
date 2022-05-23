@@ -7,14 +7,14 @@ plugins {
 }
 
 android {
-    compileSdk = 31
+    compileSdk = 32
 
     defaultConfig {
         applicationId = "app.lawnchair.lawnicons"
         minSdk = 26
-        targetSdk = 31
+        targetSdk = 32
         versionCode = 2
-        versionName = "1.2.0"
+        versionName = "1.0.0"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables {
             useSupportLibrary = true
